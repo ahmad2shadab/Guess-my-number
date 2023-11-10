@@ -8,3 +8,5 @@
 <br>
 <br>
 • On every wrong guess 1 point deducted.
+
+[Let's Play](https://ahmad2shadab.github.io/Guess-My-Number/)
