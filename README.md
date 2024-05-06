@@ -63,6 +63,6 @@ To contribute:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
+<!-- Update below -->
 Thank you for exploring "Guess My Number." Dive in, enjoy guessing, and may fortune favor your intuition!
 
